@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #edf1f5;
+    background-color: #26282b;   
+}
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+.slogan {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+    width: 20%;
+    text-shadow: 3px 5px 3px black;
+}
+
+.sponsorship {
+    margin-top: 60px;
+    margin-left: 15px;
+}
