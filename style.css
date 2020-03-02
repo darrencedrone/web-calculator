@@ -2,21 +2,45 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: #edf1f5;
     background-color: #26282b;   
+    text-align: center;
+}
+
+form {
+    padding: 10px;
 }
 
 img {
     width: 20%;
     height: auto;
+    margin-left: 100px;
+}
+
+input {
+    border-radius: 5px;
 }
 
 .slogan {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 26px;
-    width: 20%;
     text-shadow: 3px 5px 3px black;
+    text-align: center;
 }
 
 .sponsorship {
     margin-top: 60px;
     margin-left: 15px;
+}
+
+#labelTOM {
+    margin-right: 25px;
+}
+
+#requestAnswer {
+    margin-top: 30px;
+    font-size: 26px;
+    font-family: impact;
+}
+
+#typeOfMath {
+    width: 100px;
 }
